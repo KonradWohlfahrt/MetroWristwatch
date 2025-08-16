@@ -4,7 +4,7 @@
 **Artyom’s Watch - Metro Series Inspired Wristwatch**
 
 Ever wanted to build a piece of your favorite video game in real life? This project brings Artyom’s iconic wristwatch from the Metro game series into the real world! Designed to be both nostalgic and functional, this DIY gadget keeps time, adapts screen brightness to the environment, and stays true to the post-apocalyptic style of the original. Some design tweaks were made to simplify the build: 7-segment displays instead of nixie tubes, microcontroller is housed separately to save PCB space.
-A full build guide is available at instructables: [LINK]()
+A full build guide is available at instructables: [https://www.instructables.com/Artyoms-Wristwatch-From-Metro/](https://www.instructables.com/Artyoms-Wristwatch-From-Metro/)
 
 If you build your own version, feel free to share it or fork this project - I’d love to see what you come up with!
 
@@ -53,9 +53,9 @@ Programmed with the Arduino IDE and [XIAO nRF52840 board manager](https://wiki.s
 # GALLERY
 ![Schematic](https://github.com/KonradWohlfahrt/MetroWristwatch/blob/main/img/Schematic_MetroWristwatch.png)
 _Schematic of the Focus Wheel_
-![PCB Lables Front](https://github.com/KonradWohlfahrt/MetroWristwatch/blob/main/img/PCB_Front_Labled.jpg)
+![PCB Lables Front](https://github.com/KonradWohlfahrt/MetroWristwatch/blob/main/img/PCB_Front_Labled.png)
 _SMD component placement reference (front)_
-![PCB Lables Back](https://github.com/KonradWohlfahrt/MetroWristwatch/blob/main/img/PCB_Back_Labled.jpg)
+![PCB Lables Back](https://github.com/KonradWohlfahrt/MetroWristwatch/blob/main/img/PCB_Back_Labled.png)
 _SMD component placement reference (back)_
 ![Housing](https://github.com/KonradWohlfahrt/MetroWristwatch/blob/main/img/Housing.jpg)
 _3D printed and spray painted housing_
